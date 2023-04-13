@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyrrego
-- 👀 I’m interested in Quantum Machine Learning
-- 🌱 I’m currently learning automation/physics in Tsinghua University
+- 👀 I’m interested in 
+- 🌱 I’m currently learning automation in Tsinghua University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
