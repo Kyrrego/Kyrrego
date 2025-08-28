@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kyrrego
 - 👀 I’m interested in Machine Learning + Medical Imaging ...
-- 🌱 I’m currently a 1st year ECE PhD student at Cornell University
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently an ECE PhD student at Cornell University
 - 📫 How to reach me: yrzhang0722@gmail.com
 
 <!---
